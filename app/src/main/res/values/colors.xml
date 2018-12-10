@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar">#ff00</color>//自定义标题栏
+    <color name="colorPrimary">#5c00856d</color>//标题栏
+    <color name="colorPrimaryDark">#36b8f4</color>//状态栏
+    <color name="colorAccent">#D81B60</color>
+</resources>

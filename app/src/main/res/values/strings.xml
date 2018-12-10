@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">不该存在的App</string>
+    <string name="button">手机号登陆</string>
+    <string name="button2">注册</string>
+    <string name="textview">用户名：</string>
+    <string name="edittext4">请设置密码</string>
+    <string name="edittext3">请输入您的手机号</string>
+    <string name="button3">确认</string>
+    <string name="textview2">密码：</string>
+    <string name="textview3">验证码：</string>
+    <string name="edittext2">请输入验证码</string>
+    <string name="textview4">这是第一个歌单</string>
+    <string name="textview5">共15首</string>
+    <string name="textview6">这是第二个歌单</string>
+    <string name="textview7">共15首歌</string>
+    <string name="textview8">这是第三个歌单</string>
+    <string name="textview9">共15首歌</string>
+    <string name="textview10">这是第四个歌单</string>
+    <string name="textview11">共15首歌</string>
+    <string name="textview12">这是第五个歌单</string>
+    <string name="textview13">共15首歌</string>
+    <string name="textview14">这是第六个歌单</string>
+    <string name="textview15">共15首歌</string>
+    <string name="textview16">这是第七个歌单</string>
+    <string name="textview17">共15首歌</string>
+    <string name="textview18">其他方式登陆</string>
+</resources>
